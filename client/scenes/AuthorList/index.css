@@ -1,0 +1,15 @@
+
+ 
+table {
+    width: 200px; /* Set the desired width */
+    border-collapse: collapse;
+    margin: 20px; /* Optional: Add some margin for spacing */
+  }
+
+  th, td {
+    border: 1px solid #000; /* Set the border style and color */
+    padding: 8px; /* Optional: Add padding for cell content */
+    text-align: left; /* Optional: Align text within cells */
+  }
+  
+  
